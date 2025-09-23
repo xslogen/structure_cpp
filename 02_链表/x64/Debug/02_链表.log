@@ -1,0 +1,3 @@
+﻿  02_链表.cpp
+E:\structure\02_链表\02_链表.cpp(343,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  02_链表.vcxproj -> E:\structure\x64\Debug\02_链表.exe
