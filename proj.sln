@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_二分搜索算法", "10
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_基础排序", "11_基础排序\11_基础排序.vcxproj", "{49A2FE16-CF2D-4D90-993F-553402120F6C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_快速排序", "12_快速排序\12_快速排序.vcxproj", "{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{49A2FE16-CF2D-4D90-993F-553402120F6C}.Release|x64.Build.0 = Release|x64
 		{49A2FE16-CF2D-4D90-993F-553402120F6C}.Release|x86.ActiveCfg = Release|Win32
 		{49A2FE16-CF2D-4D90-993F-553402120F6C}.Release|x86.Build.0 = Release|Win32
+		{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}.Debug|x64.ActiveCfg = Debug|x64
+		{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}.Debug|x64.Build.0 = Debug|x64
+		{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}.Debug|x86.Build.0 = Debug|Win32
+		{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}.Release|x64.ActiveCfg = Release|x64
+		{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}.Release|x64.Build.0 = Release|x64
+		{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}.Release|x86.ActiveCfg = Release|Win32
+		{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
