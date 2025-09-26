@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_基础排序", "11_基�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_快速排序", "12_快速排序\12_快速排序.vcxproj", "{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_归并排序", "13_归并排序\13_归并排序.vcxproj", "{81B05B38-012E-44C8-979F-512E50DD2DF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}.Release|x64.Build.0 = Release|x64
 		{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}.Release|x86.ActiveCfg = Release|Win32
 		{7A81CB7E-0741-4F99-ACC2-F9B670CDB159}.Release|x86.Build.0 = Release|Win32
+		{81B05B38-012E-44C8-979F-512E50DD2DF9}.Debug|x64.ActiveCfg = Debug|x64
+		{81B05B38-012E-44C8-979F-512E50DD2DF9}.Debug|x64.Build.0 = Debug|x64
+		{81B05B38-012E-44C8-979F-512E50DD2DF9}.Debug|x86.ActiveCfg = Debug|Win32
+		{81B05B38-012E-44C8-979F-512E50DD2DF9}.Debug|x86.Build.0 = Debug|Win32
+		{81B05B38-012E-44C8-979F-512E50DD2DF9}.Release|x64.ActiveCfg = Release|x64
+		{81B05B38-012E-44C8-979F-512E50DD2DF9}.Release|x64.Build.0 = Release|x64
+		{81B05B38-012E-44C8-979F-512E50DD2DF9}.Release|x86.ActiveCfg = Release|Win32
+		{81B05B38-012E-44C8-979F-512E50DD2DF9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
