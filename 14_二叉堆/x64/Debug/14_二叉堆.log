@@ -1,0 +1,3 @@
+﻿  14_二叉堆.cpp
+E:\structure\14_二叉堆\14_二叉堆.cpp(124,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  14_二叉堆.vcxproj -> E:\structure\x64\Debug\14_二叉堆.exe
